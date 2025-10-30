@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Debe coincidir con el snapshot 1`] = `
+{
+  "activo": true,
+  "edad": 30,
+  "nombre": "Bruno",
+  "rol": "usuario libre liberador",
+}
+`;
